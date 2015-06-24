@@ -6,4 +6,4 @@ Repositorio donde se concentrarán las minutas de las diferentes reuniones de nu
 
 
 ### Minutas de reuniones realizadas.
-- [Reunión #1 - 20/06/2015](https://github.com/vzlajs/minutas/blob/master/01-20062015.md).
+- [Reunión #1 - 20/06/2015](https://github.com/vzlajs/minutas/blob/master/01-20150620.md).
